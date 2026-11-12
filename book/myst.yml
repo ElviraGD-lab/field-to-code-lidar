@@ -1,0 +1,37 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: field-to-code-lidar
+  title: "From Field to Code: LiDAR from Scratch"
+  subtitle: "Del campo al código: LiDAR desde cero"
+  description: >-
+    An open book that teaches airborne LiDAR from scratch through one real
+    project: measuring how fast the forest grows next to power lines with the
+    national LiDAR surveys of Spain (PNOA), while building the open tool
+    canopy-growth. Spanish and English.
+  keywords:
+    - lidar
+    - point cloud
+    - PDAL
+    - PNOA
+    - canopy height
+    - Asturias
+  authors:
+    - name: Elvira Gayanova
+      orcid: 0009-0002-4252-311X
+  license:
+    content: CC-BY-4.0
+    code: Apache-2.0
+  github: https://github.com/ElviraGD-lab/field-to-code-lidar
+  toc:
+    - file: index.md
+    - title: Español
+      children:
+        - file: es/index.md
+    - title: English
+      children:
+        - file: en/index.md
+site:
+  template: book-theme
+  options:
+    logo_text: From Field to Code

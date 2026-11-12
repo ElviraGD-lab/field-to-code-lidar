@@ -1,0 +1,33 @@
+# System
+.DS_Store
+
+# MyST build output
+_build/
+node_modules/
+
+# LiDAR and rasters: never in git. Project data live in ~/geodata/pajares
+data/
+*.las
+*.laz
+*.LAZ
+*.copc.laz
+*.vpc
+*.tif
+*.tiff
+*.zip
+*.gpkg
+
+# Python (used in code chapters)
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# QGIS backups
+*.qgs~
+*.qgz~
+
+# Secrets
+.env
+
+# Russian drafts never go to this repository
+*.ru.md
