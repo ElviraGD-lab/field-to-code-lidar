@@ -6,22 +6,27 @@ Learn airborne LiDAR the way an engineer works: start with a real question, read
 
 Book 4 of the *From Field to Code* series. Written in Spanish and English.
 
-> Status: work in progress (started November 2026).
+> Status: work in progress (started November 2026). Read it online: https://elviragd-lab.github.io/field-to-code-lidar/
 
 ## The question
 
 Power line corridors are cleared on a fixed cycle, not on the measured growth of the forest. Spain has flown the whole country with LiDAR three times (PNOA). Can these free surveys tell us how fast the canopy grows on any site, with an honest error, and where the old surveys cannot tell us anything?
 
-We answer it step by step on the Pajares pass (Asturias and León) while building the open tool [`canopy-growth`](https://github.com/ElviraGD-lab/canopy-growth). No previous knowledge of LiDAR is needed: every idea is explained when it is first used, including the dead ends.
+We answer it step by step on the Pajares pass (Asturias and León) while building the open tool [`canopy-growth`](https://github.com/ElviraGD-lab/canopy-growth) ([DOI 10.5281/zenodo.23856842](https://doi.org/10.5281/zenodo.23856842)). No previous knowledge of LiDAR is needed: every idea is explained when it is first used, including the dead ends.
 
 ## The series
 
 *From Field to Code* is a series of open books for engineers and field specialists who want to work with spatial data the way the industry does today. Each book follows one real project from the question to a published result.
 
-1. [PyQGIS from Scratch](https://github.com/ElviraGD-lab/field-to-code-pyqgis)
-2. [Remote Sensing from Scratch](https://github.com/ElviraGD-lab/field-to-code-remote-sensing)
-3. Spatial Statistics from Scratch (in preparation)
+1. [PyQGIS from Scratch](https://elviragd-lab.github.io/field-to-code-pyqgis/)
+2. [Remote Sensing from Scratch](https://elviragd-lab.github.io/field-to-code-remote-sensing/)
+3. [Spatial Statistics from Scratch](https://elviragd-lab.github.io/field-to-code-statistics/)
 4. LiDAR from Scratch (this book)
+5. Cloud Native (planned)
+6. Storms (planned)
+7. Risk (planned)
+
+Series home page: https://elviragd-lab.github.io
 
 ## Read and build
 
