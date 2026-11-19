@@ -10,7 +10,7 @@ Book 4 of the *From Field to Code* series. Written in Spanish and English.
 
 ## The question
 
-Power line corridors are cleared on a fixed cycle, not on the measured growth of the forest. Spain has flown the whole country with LiDAR three times (PNOA). Can these free surveys tell us how fast the canopy grows on any site, with an honest error, and where the old surveys cannot tell us anything?
+In storms, trees are one of the main causes of power outages, and many of them fall from outside the cleared corridor. To know which trees will reach the wires in a few years, we first need to know how fast the forest grows. Spain has flown the whole country with LiDAR three times (PNOA). Can these free surveys tell us how fast the canopy grows on any site, with an honest error, and where the old surveys cannot tell us anything?
 
 We answer it step by step on the Pajares pass (Asturias and León) while building the open tool [`canopy-growth`](https://github.com/ElviraGD-lab/canopy-growth) ([DOI 10.5281/zenodo.23856842](https://doi.org/10.5281/zenodo.23856842)). No previous knowledge of LiDAR is needed: every idea is explained when it is first used, including the dead ends.
 
@@ -22,9 +22,10 @@ We answer it step by step on the Pajares pass (Asturias and León) while buildin
 2. [Remote Sensing from Scratch](https://elviragd-lab.github.io/field-to-code-remote-sensing/)
 3. [Spatial Statistics from Scratch](https://elviragd-lab.github.io/field-to-code-statistics/)
 4. LiDAR from Scratch (this book)
-5. Cloud Native (planned)
-6. Storms (planned)
-7. Risk (planned)
+5. Power Lines from Scratch (planned)
+6. Cloud Native (planned)
+7. Storms (planned)
+8. Risk (planned)
 
 Series home page: https://elviragd-lab.github.io
 
