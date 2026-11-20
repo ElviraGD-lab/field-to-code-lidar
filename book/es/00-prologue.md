@@ -6,11 +6,13 @@ title: "Prólogo. Bosque, nieve y cables en el puerto de Pajares"
 
 **Pajares es el gran paso de la cordillera Cantábrica entre Asturias y León. Y uno de los más difíciles.**
 
-- **El ferrocarril antiguo.** La Rampa de Pajares se inauguró el 15 de agosto de 1884. Son 42,5 km entre Busdongo y Puente de los Fierros, con una pendiente casi constante de alrededor del 20 ‰ y 63 túneles seguidos[^1][^2].
-- **El ferrocarril nuevo.** La Variante de Pajares se abrió el 29 de noviembre de 2023: 50 km, el 80 % del trazado en túnel y 4000 millones de euros[^3]. El túnel de base son dos tubos de 24,7 km. Por longitud, es el sexto túnel ferroviario de Europa[^4][^5].
+Para hacernos una idea, veamos lo que costó abrir caminos a través de él.
+
+- **El ferrocarril antiguo.** Se inauguró en 1884. En los 42,5 km entre Busdongo y Puente de los Fierros mantiene una pendiente casi constante de alrededor del 20 ‰, es decir, sube dos metros por cada cien. Y atraviesa 63 túneles seguidos[^1][^2].
+- **El ferrocarril nuevo.** No se abrió hasta 2023. Son 50 km, el 80 % en túnel, y costó 4000 millones de euros[^3]. Su túnel de base son dos tubos de 24,7 km: el sexto túnel ferroviario más largo de Europa[^4][^5].
 - **La carretera.** La N-630 sube desde Campomanes durante 19,2 km con una pendiente media del 5,2 %[^6]. Cuando un argayo corta la autopista AP-66, es la única carretera entre Asturias y León. Así pasó en noviembre de 2024[^7].
-- **El invierno.** En el puerto hay seis quitanieves, una fresadora y una pala cargadora[^8]. La estación meteorológica de Pajares-Valgrande está a 1480 m de altitud. El 31 de enero de 2023 marcó −9,3 °C, la temperatura más baja del mes en Asturias[^9]. El 8 de diciembre de 2024 cayeron 59,7 mm en un solo día[^10].
-- **La electricidad.** Asturias tiene 540 km de circuitos de 400 kV[^11]. A los pueblos del puerto los abastece Viesgo, una de las distribuidoras de EDP[^12].
+- **El invierno.** En el puerto hay de guardia todo el invierno seis quitanieves, una fresadora y una pala cargadora[^8]. La estación meteorológica de Pajares-Valgrande está a 1480 m de altitud. El 31 de enero de 2023 marcó −9,3 °C, la temperatura más baja del mes en Asturias[^9]. Y el 8 de diciembre de 2024 cayeron allí 59,7 mm en un solo día[^10].
+- **La electricidad.** Por Asturias pasan 540 km de circuitos de alta tensión de 400 kV[^11]. A los pueblos del puerto los abastece Viesgo, una de las distribuidoras de EDP[^12].
 
 **En un mismo puerto se juntan laderas empinadas, bosque, líneas eléctricas, carreteras y un invierno duro.**
 
@@ -34,42 +36,48 @@ Los cables también lo pasan mal. En invierno se les pegan la nieve húmeda y el
 
 ## Qué pasa aquí
 
-**Febrero de 2018.** Temporal de nieve. El 112 Asturias atribuye los cortes a la caída de árboles y a los argayos. Hay unos 10 000 abonados sin luz; de ellos, unos 2500 son clientes de Viesgo en Mieres, Aller y Lena[^20].
+Veamos qué ocurre en el puerto cuando llega el mal tiempo. Tomemos dos episodios de 2018.
 
-Lo que frena la reparación es una sola cosa: el acceso. No hay manera de llegar a las averías: en las carreteras hay árboles caídos y argayos, y los puertos están cerrados por la nieve. También cae el teléfono, porque las antenas se han quedado sin electricidad[^20]. En Pajares pasan la noche sin calefacción y tiran de cocinas de leña; varios pueblos quedan aislados[^21].
+**Febrero de 2018.** Llega un temporal de nieve. El 112 Asturias atribuye los cortes a la caída de árboles y a los argayos. Se quedan sin luz unos 10 000 abonados; de ellos, unos 2500 son clientes de Viesgo en Mieres, Aller y Lena[^20].
 
-**Octubre de 2018.** A finales de otoño cae una nevada fuerte con los árboles todavía en hoja. La nieve se acumula en las copas, los árboles se parten o se arrancan de raíz, caen y rompen las líneas. Esos mismos árboles cortan el paso a las brigadas y a las quitanieves[^22]. Al tercer día, Viesgo tiene 679 clientes sin luz: 384 en Pajares, 79 en la parte alta de Casomera y 224 en la parte alta de Tuiza[^23].
+¿Por qué tarda tanto la reparación? Las brigadas no pueden llegar a las averías: en las carreteras hay árboles caídos y argayos, y los puertos están cerrados por la nieve. Tras la luz se va también el teléfono, porque las antenas se han quedado sin electricidad[^20]. En Pajares la gente pasa la noche sin calefacción y tira de cocinas de leña; varios pueblos quedan aislados[^21].
 
-**Los mismos árboles que rompen los cables impiden llegar a repararlos.**
+**Octubre de 2018.** A finales de otoño cae una nevada fuerte con los árboles todavía en hoja. La nieve se posa sobre las hojas y la copa se vuelve muy pesada. Los árboles se parten o se arrancan de raíz, caen y rompen las líneas. Esos mismos árboles cortan el paso a las brigadas y a las quitanieves[^22]. Al tercer día, Viesgo sigue teniendo 679 clientes sin luz: 384 en Pajares, 79 en la parte alta de Casomera y 224 en la parte alta de Tuiza[^23].
+
+**O sea, los mismos árboles que rompen los cables impiden llegar a repararlos.**
 
 ## No es una historia local
 
-**En los temporales, los árboles son una de las principales causas de los cortes de luz en muchos países.**
+¿Será algo propio de Pajares? Miremos otros países.
 
-- **Estados Unidos.** La vegetación es la causa más frecuente de los cortes: más del 20 % de los casos. En los temporales fuertes, el mayor daño lo hacen los árboles de fuera de la calle de seguridad[^24]. En Maryland, entre el 62 y el 67 % de los árboles que provocaron cortes estaban fuera de la calle[^25]. En Virginia se analizaron más de 1100 casos: en el 46 %, el árbol no tenía ningún defecto visible antes de caer[^26]. En Connecticut, más del 90 % de los cortes durante los temporales tienen que ver con árboles[^27].
+**Resulta que, en los temporales, los árboles son una de las principales causas de los cortes de luz en muchos países.**
+
+- **Estados Unidos.** La vegetación es la causa más frecuente de los cortes: más del 20 % de los casos. En los temporales fuertes, el mayor daño lo hacen los árboles que están fuera de la calle de seguridad[^24]. En Maryland, fueron entre el 62 y el 67 %[^25]. En Virginia se analizaron más de 1100 casos, y casi la mitad de los árboles caídos no tenía ningún defecto visible antes de caer[^26]. Así que un árbol así no se encuentra a simple vista. En Connecticut, más del 90 % de los cortes durante los temporales tienen que ver con árboles[^27].
 - **Reino Unido.** La borrasca Arwen dejó sin luz en 2021 a más de un millón de clientes. La mayoría de las averías las causaron el viento y los árboles sobre las líneas[^28]. En algunas zonas estuvieron más de 10 días sin suministro[^29].
 - **Suecia.** La borrasca Gudrun derribó en 2005 unos 75 millones de m³ de bosque. Tres semanas después, unas 10 000 viviendas seguían sin luz[^30].
 - **Finlandia.** Los árboles caen sobre las líneas por el viento fuerte o por el peso de la nieve húmeda en las copas. En los peores casos, entre 100 000 y 400 000 clientes se quedan sin luz durante mucho tiempo[^31].
 
-**España.** El mecanismo depende del lugar. En Andalucía, en el invierno de 2026, frente a 53 árboles sobre las líneas hubo 252 conductores rotos por el viento y 189 apoyos doblados o derribados[^18]. En el sur, lo que rompe la red es el propio viento. En Asturias, los episodios de 2018 muestran otra cosa: nieve húmeda sobre árboles en hoja. Eso se parece más al caso finlandés.
+**¿Y en España?** Aquí el mecanismo depende del lugar. En Andalucía, en el invierno de 2026, frente a 53 árboles sobre las líneas hubo 252 conductores rotos por el viento y 189 apoyos doblados o derribados[^18]. En el sur, lo que rompe la red es el propio viento. En Asturias, los episodios de 2018 muestran otra cosa: nieve húmeda sobre árboles en hoja. Eso se parece más al caso finlandés.
 
-**Incendios.** Los árboles quemados se parten y caen con los primeros vientos fuertes después del fuego[^32][^33]. En agosto de 2025 ardieron en Galicia unas 96 400 ha[^34]. En Asturias, a 31 de marzo de 2023 se habían quemado más de 22 000 ha[^35].
+**Y luego están los incendios.** Un árbol quemado puede seguir en pie después del fuego y luego partirse y caer con el primer viento fuerte[^32][^33]. En agosto de 2025 ardieron en Galicia unas 96 400 ha[^34]. En Asturias, a 31 de marzo de 2023 se habían quemado más de 22 000 ha[^35].
 
 **Así que la pregunta es general: qué árboles junto a las líneas caerán en un temporal.** Y la respuesta depende del viento, la nieve, los incendios, el bosque y el relieve.
 
 ## Qué falta
 
-**La norma comprueba si un árbol llega al cable. Si caerá en un temporal, no lo pregunta.**
+¿Por qué no basta con prepararse de antemano? Vemos dos lagunas.
 
-Según la ITC-LAT 07, apartado 5.12.1, se consideran peligrosos para la línea los árboles que, al inclinarse o caer, pueden alcanzar los conductores. Hay que talarlos. La posición de los conductores se toma con la hipótesis de temperatura; para este criterio no hay hipótesis de viento[^36]. En una ladera de montaña, esos árboles pueden ser muchísimos. La distribuidora necesita saber por cuáles empezar.
+**La primera laguna es la norma.** La regla para los árboles junto a las líneas dice así: si un árbol, al caer, puede alcanzar el conductor, hay que talarlo[^36]. Pero la regla no pregunta si ese árbol caerá en un temporal. El viento no se tiene en cuenta. Y en una ladera de montaña los árboles que «pueden alcanzar» son muchísimos. La distribuidora necesita saber por cuáles empezar.
 
-La segunda laguna son los datos. Las distribuidoras comunican cada año los indicadores de continuidad del suministro de cada municipio. El Ministerio solo los publica a escala nacional, por comunidades y por provincias[^37]. Cataluña da datos por municipio, pero solo a petición[^38]. En España no hay datos abiertos sobre qué cortes provocaron los árboles, el viento o la nieve. En Estados Unidos, en cambio, existe el conjunto abierto EAGLE-I: cortes por condado cada 15 minutos desde 2014[^39].
+**La segunda laguna son los datos.** Las distribuidoras comunican cada año, para cada municipio, cuántas veces y durante cuánto tiempo faltó la luz. Pero el Ministerio solo publica esas cifras a escala nacional, por comunidades autónomas y por provincias[^37]. Cataluña da datos por municipio, pero solo a petición[^38]. Y en España no hay datos abiertos sobre qué cortes provocaron los árboles, el viento o la nieve. En Estados Unidos, en cambio, existe el conjunto abierto EAGLE-I: cortes por condado cada 15 minutos desde 2014[^39].
 
-**Solo teniendo en cuenta el temporal podemos saber por qué árboles empezar. Y para comprobarlo hacen falta datos abiertos de temporales y cortes.**
+**Para saber por qué árboles empezar, hay que tener en cuenta el temporal. Y para comprobarlo hacen falta datos abiertos de temporales y cortes.**
 
 ## Una pregunta, tres partes
 
-**La pregunta principal del proyecto Pajares es dónde es más probable que el bosque junto a las líneas caiga sobre los cables en un temporal.** Para responderla hacen falta tres conocimientos distintos. Por eso el proyecto se divide en tres herramientas abiertas. Y siempre van en el mismo orden.
+Ahora juntemos todas las piezas.
+
+**La pregunta principal del proyecto Pajares es dónde es más probable que el bosque junto a las líneas caiga sobre los cables en un temporal.** Para responderla hacen falta tres conocimientos distintos. Por eso dividimos el proyecto en tres herramientas abiertas. Y siempre van en el mismo orden.
 
 | Parte | Herramienta | Qué pregunta responde | Qué obtenemos al final |
 |---|---|---|---|
@@ -82,23 +90,25 @@ Cada parte tiene su propio resultado, útil por sí mismo:
 - la velocidad de crecimiento del bosque les sirve a los servicios forestales y a los investigadores aunque no haya ninguna línea cerca;
 - el catálogo de episodios les sirve al 112 y a los ayuntamientos aunque no exista el modelo de riesgo.
 
-Juntas, cada parte alimenta a las demás. La parte 3 no se puede construir sin las partes 1 y 2: sin el crecimiento, el modelo no sabe qué altura tendrán mañana los árboles; sin los episodios, no tiene con qué comprobarse.
+Y juntas, las partes se alimentan unas a otras. La parte 3 no se puede construir sin las partes 1 y 2: sin el crecimiento, el modelo no sabe qué altura tendrán mañana los árboles; sin los episodios, no tiene con qué comprobarse.
 
-Las tres partes funcionan con datos nacionales gratuitos: el LiDAR del PNOA, las observaciones de AEMET y los mapas de incendios. Por eso cualquiera puede comprobarlas y repetirlas en cualquier zona de España. Pajares es el lugar más difícil para ponerlas a prueba: aquí se juntan el relieve, el clima, el bosque, las líneas y las carreteras.
+Las tres partes funcionan con datos nacionales gratuitos: el LiDAR del PNOA, las observaciones de AEMET y los mapas de incendios. Por eso cualquiera puede comprobarlas y repetirlas, en cualquier zona de España. Elegimos Pajares porque es el lugar más difícil para ponerlas a prueba: aquí se juntan el relieve, el clima, el bosque, las líneas y las carreteras.
 
 **No competimos con los drones de las compañías. Proponemos una idea, una solución de ingeniería y datos abiertos que cualquiera puede comprobar.**
 
 ## Qué hacen ya otros
 
+Por supuesto, no somos los primeros en pensar en los árboles y las líneas. Veamos lo que ya existe.
+
 **Hay quien trabaja en problemas parecidos, en el mundo y en España, pero de forma cerrada o por partes.**
 
 - **Iberdrola con la empresa Woza.** Predicción de caída de árboles y ramas dentro y fuera de la franja de seguridad, teniendo en cuenta el viento. Hay un piloto en Bizkaia, con datos de satélite y SIG. Los resultados no se han publicado[^40].
 - **Red Eléctrica con la Universitat Politècnica de València.** Crecimiento del bosque junto a las líneas a partir de vuelos LiDAR repetidos de la propia Red Eléctrica. Los datos son cerrados[^41].
-- **Viesgo.** Un modelo propio de crecimiento de la vegetación a partir de dos vuelos LiDAR, con celdas de 5 × 5 m[^42].
+- **Viesgo.** Un modelo propio de crecimiento de la vegetación a partir de dos vuelos LiDAR, en cuadrículas de 5 × 5 m[^42].
 - **Noruega, 2026.** Predicción de la caída de árboles individuales a lo largo de las líneas: un modelo físico del viento y aprendizaje automático con datos de dron[^43].
-- **Tanase y otros, 2026.** La altura del bosque y su cambio a partir de los vuelos del PNOA para toda la España peninsular. El crecimiento medio en altura ronda los 0,2 m al año. Galicia quedó fuera: en la primera cobertura, cerca de la mitad de la región se voló sin hoja[^44].
+- **Tanase y otros, 2026.** La altura del bosque y su cambio a partir de los vuelos del PNOA para toda la España peninsular. El crecimiento medio en altura ronda los 0,2 m al año. Galicia quedó fuera: en el primer vuelo, cerca de la mitad de la región se voló sin hoja[^44].
 
-**Lo nuestro es abierto, comprobable, con datos nacionales, para cualquier zona, con un error contado con honestidad y junto con los temporales.**
+**Lo que nos distingue: abierto, comprobable, con datos nacionales, para cualquier zona, con un error contado con honestidad y junto con los temporales.**
 
 ## Por dónde empezamos
 
@@ -106,7 +116,7 @@ Las tres partes funcionan con datos nacionales gratuitos: el LiDAR del PNOA, las
 
 Un árbol que hoy no llega al cable puede llegar dentro de unos años. Lo que más rápido crece es el regenerado en las calles de las líneas y en las zonas quemadas. España ya ha cubierto varias veces todo el país con el LiDAR del PNOA, y esos vuelos son gratuitos. Con ellos podemos medir cuánto ha crecido el bosque entre un vuelo y otro.
 
-La dificultad es que los vuelos son distintos: distintos años, sensores, estaciones y densidades de puntos. Por eso `canopy-growth` no da solo la velocidad de crecimiento en metros al año. También muestra hasta qué punto podemos fiarnos de ese número, y dónde los vuelos antiguos permiten medirlo y dónde no.
+La dificultad es que los vuelos son distintos: distintos años, aparatos, estaciones y número de puntos. Por eso `canopy-growth` no da solo la velocidad de crecimiento en metros al año. También muestra hasta qué punto podemos fiarnos de ese número, y dónde los vuelos antiguos permiten medirlo y dónde no.
 
 ---
 

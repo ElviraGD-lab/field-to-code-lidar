@@ -4,13 +4,15 @@ title: "Prologue: Forest, snow and wires on the Pajares Pass"
 
 ## The pass
 
-**Pajares is the main way through the Cantabrian Mountains between Asturias and León – and one of the toughest.**
+**Pajares is the main way through the Cantabrian Mountains between Asturias and León. It's also one of the toughest.**
 
-- **The old railway.** The Pajares Ramp opened on 15 August 1884. It runs 42.5 km between Busdongo and Puente de los Fierros on an almost constant gradient of about 20‰, through 63 tunnels one after another.[^1][^2]
-- **The new railway.** The Pajares Variant opened on 29 November 2023: 50 km, 80% of it in tunnels, at a cost of €4,000 million.[^3] Its base tunnel is two bores of 24.7 km each, which makes it the sixth-longest railway tunnel in Europe.[^4][^5]
-- **The road.** The N-630 climbs 19.2 km from Campomanes at an average gradient of 5.2%.[^6] When a landslide closes the AP-66 motorway, it's the only road between Asturias and León. That's exactly what happened in November 2024.[^7]
-- **Winter.** Six snowploughs, a snow blower and a loader are kept at the pass.[^8] The Pajares-Valgrande weather station stands at 1,480 m. On 31 January 2023 it recorded −9.3 °C, the lowest temperature anywhere in Asturias that month.[^9] On 8 December 2024, 59.7 mm of precipitation fell there in a single day.[^10]
-- **Electricity.** Asturias has 540 km of 400 kV circuits.[^11] The villages around the pass are supplied by Viesgo, one of EDP's distribution companies.[^12]
+To get a feel for that, let's look at what it took to build roads and railways through it.
+
+- **The old railway.** It opened in 1884. Over the 42.5 km between Busdongo and Puente de los Fierros, it climbs at an almost constant gradient of about 20‰ – that is, two metres up for every hundred along. And it passes through 63 tunnels, one after another.[^1][^2]
+- **The new railway.** It opened only in 2023. It's 50 km long, 80% of it in tunnels, and it cost €4,000 million.[^3] Its base tunnel is two bores of 24.7 km each, the sixth-longest railway tunnel in Europe.[^4][^5]
+- **The road.** The N-630 climbs 19.2 km from Campomanes at an average gradient of 5.2%.[^6] When a landslide closes the AP-66 motorway, it's the only road between Asturias and León. That's what happened in November 2024.[^7]
+- **Winter.** Six snowploughs, a snow blower and a loader stand by at the pass all winter.[^8] The Pajares-Valgrande weather station sits at 1,480 m. On 31 January 2023 it recorded −9.3 °C, the lowest temperature in Asturias that month.[^9] And on 8 December 2024, 59.7 mm of precipitation fell there in a single day.[^10]
+- **Electricity.** 540 km of 400 kV high-voltage circuits run through Asturias.[^11] The villages around the pass are supplied by Viesgo, one of EDP's distribution companies.[^12]
 
 **Steep slopes, forest, power lines, roads and a harsh winter all meet on this one pass.**
 
@@ -34,42 +36,48 @@ The wires have a hard time here too. In winter, wet snow and ice build up on the
 
 ## What happens here
 
-**February 2018.** A storm with snow. Asturias's 112 emergency service links the outages to falling trees and landslides. Around 10,000 customers are left without power, including about 2,500 Viesgo customers in Mieres, Aller and Lena.[^20]
+Let's see what happens at the pass when bad weather arrives. We'll take two cases from 2018.
 
-One thing holds up the repairs: access. Crews can't reach the faults, because fallen trees and landslides block the roads and snow has closed the passes. The phones go down too, since the telecoms stations have lost power as well.[^20] In Pajares, people spend the night without heating and keep warm with wood stoves, and several villages are cut off.[^21]
+**February 2018.** A storm with snow comes in. Asturias's 112 emergency service links the outages to falling trees and landslides. Around 10,000 customers are left without power, including about 2,500 Viesgo customers in Mieres, Aller and Lena.[^20]
 
-**October 2018.** Heavy snow falls in late autumn, while the trees are still in leaf. The snow settles on the crowns, and the trees snap or are uprooted, fall and bring down lines. The same trees block the roads for repair crews and snowploughs.[^22] On the third day, 679 Viesgo customers are still without power: 384 in Pajares, 79 in upper Casomera and 224 in upper Tuiza.[^23]
+Why are the repairs so slow? The crews can't get to the faults: fallen trees and landslides block the roads, and snow has closed the passes. Once the power goes, the phones follow, because the telecoms stations have lost power too.[^20] In Pajares, people spend the night without heating and keep warm with wood stoves, and several villages are cut off.[^21]
 
-**The same trees both break the wires and keep the repair crews from reaching them.**
+**October 2018.** Heavy snow falls in late autumn, while the trees are still in leaf. The snow settles on the leaves, and the crown becomes very heavy. Trees snap or are uprooted, fall and bring down lines. The same trees block the roads for repair crews and snowploughs.[^22] On the third day, 679 Viesgo customers are still without power: 384 in Pajares, 79 in upper Casomera and 224 in upper Tuiza.[^23]
+
+**So the same trees both break the wires and keep the repair crews from reaching them.**
 
 ## This isn't just a local story
 
-**In storms, trees are one of the main causes of power cuts in many countries.**
+Could this be something peculiar to Pajares? Let's look at other countries.
 
-- **USA.** Vegetation is the most common cause of outages, behind more than 20% of them. In severe storms, most of the damage comes from trees outside the right-of-way corridor.[^24] In Maryland, 62–67% of the trees that caused outages stood outside the corridor.[^25] In Virginia, a review of more than 1,100 cases found that in 46% of them the tree had no visible defect before it fell.[^26] In Connecticut, more than 90% of storm outages are linked to trees.[^27]
+**It turns out that, in storms, trees are one of the main causes of power cuts in many countries.**
+
+- **USA.** Vegetation is the most common cause of outages, behind more than 20% of them. In severe storms, most of the damage comes from trees standing outside the right-of-way corridor.[^24] In Maryland, 62–67% of the trees that caused outages were of this kind.[^25] In Virginia, a review of more than 1,100 cases found that almost half of the fallen trees had no visible defect before they fell.[^26] So we can't spot such a tree just by looking at it. In Connecticut, more than 90% of storm outages are linked to trees.[^27]
 - **United Kingdom.** Storm Arwen in 2021 left more than a million customers without power. Most of the damage was caused by wind and by trees on the lines.[^28] Some areas had no power for more than 10 days.[^29]
-- **Sweden.** Storm Gudrun in 2005 brought down about 75 million m³ of forest. Three weeks later, around 10,000 homes were still without power.[^30]
+- **Sweden.** Storm Gudrun in 2005 brought down about 75 million m³ of forest. Three weeks later, around 10,000 homes were still sitting without power.[^30]
 - **Finland.** Trees fall onto lines in strong winds or under heavy wet snow on their crowns. In the worst cases, 100,000–400,000 customers are left without power for a long time.[^31]
 
-**Spain.** The mechanism depends on the place. In Andalusia in winter 2026, there were 53 trees on lines, against 252 conductors snapped by the wind and 189 towers bent or brought down.[^18] In the south, it's the wind itself that breaks the network. In Asturias, the 2018 events point to something else: wet snow on trees in leaf. That's closer to the Finnish case.
+**And in Spain?** Here the mechanism depends on the place. In Andalusia in winter 2026, there were 53 trees on lines, against 252 conductors snapped by the wind and 189 towers bent or brought down.[^18] In the south, it's the wind itself that breaks the network. In Asturias, the 2018 events point to something else: wet snow on trees in leaf. That's closer to the Finnish case.
 
-**Fires.** Burnt trees break and fall in the first strong winds after a fire.[^32][^33] In August 2025, about 96,400 ha burned in Galicia.[^34] In Asturias, more than 22,000 ha had burned by 31 March 2023.[^35]
+**Then there are fires.** A burnt tree can stay standing after a fire, then snap and fall in the very first strong wind.[^32][^33] In August 2025, about 96,400 ha burned in Galicia.[^34] In Asturias, more than 22,000 ha had burned by 31 March 2023.[^35]
 
-**So the question is a general one: which trees near the lines will fall in a storm?** The answer depends on wind, snow, fire, forest and terrain.
+**So the question is a general one: which trees near the lines will fall in a storm?** And the answer depends on wind, snow, fire, forest and terrain.
 
 ## What's missing
 
-**The regulations check whether a tree can reach a wire. Whether it will fall in a storm is a question they don't ask.**
+Why can't we simply prepare for this in advance? We see two gaps.
 
-Under Instruction ITC-LAT 07, section 5.12.1, trees count as a danger to the line if they could reach the conductors when they lean or fall. They have to be felled. The position of the conductors is taken under the temperature load case; for this criterion there's no wind load case.[^36] On a mountain slope there can be a great many such trees. The company needs to know which ones to start with.
+**The first gap is the regulations.** The rule for trees near lines goes like this: if a tree could reach a wire as it falls, it has to be felled.[^36] But the rule doesn't ask whether that tree will actually fall in a storm. Wind doesn't come into it. And on a mountain slope there are a great many trees that 'could reach'. The company needs to know which ones to start with.
 
-The second gap is data. Every year, the distribution companies report supply continuity figures for each municipality. The ministry publishes them only for the country as a whole, the autonomous communities and the provinces.[^37] Catalonia gives figures by municipality, but only on request.[^38] Spain has no open data on which outages were caused by trees, wind or snow. The US, by comparison, has the open EAGLE-I dataset: outages by county every 15 minutes since 2014.[^39]
+**The second gap is data.** Every year, the distribution companies report how often and for how long the power was off in each municipality. But the ministry publishes these figures only for the country as a whole, the autonomous communities and the provinces.[^37] Catalonia gives figures by municipality, but only on request.[^38] And Spain has no open data on which outages were caused by trees, wind or snow. The US, by comparison, has the open EAGLE-I dataset: outages by county every 15 minutes since 2014.[^39]
 
-**Only by taking storms into account can we work out which trees to start with. And to check that order, we need open data on storms and outages.**
+**To know which trees to start with, we need to take storms into account. And to check that, we need open data on storms and outages.**
 
 ## One question, three parts
 
-**The core question of the Pajares project is this: where is the forest along the lines most likely to fall onto the wires in a storm?** Answering it takes three different kinds of knowledge. So the project is split into three open tools, always in the same order.
+Now let's put it all together.
+
+**The core question of the Pajares project is this: where is the forest along the lines most likely to fall onto the wires in a storm?** Answering it takes three different kinds of knowledge. So we split the project into three open tools, always in the same order.
 
 | Part | Tool | The question it answers | What we end up with |
 |---|---|---|---|
@@ -82,23 +90,25 @@ Each part has its own result that's useful on its own:
 - forest growth rates are useful to forestry services and researchers, even where there isn't a single line nearby;
 - the event catalogue is useful to 112 services and municipalities, even without the risk model.
 
-Together, the parts feed into one another. We can't build part 3 without parts 1 and 2: without growth, the model doesn't know how tall the trees will be tomorrow, and without events, there's nothing to test it on.
+And together, the parts feed one another. We can't build part 3 without parts 1 and 2: without growth, the model doesn't know how tall the trees will be tomorrow, and without events, there's nothing to test it on.
 
-All three parts run on free national data: PNOA LiDAR, AEMET observations and fire maps. So anyone can check them and repeat them on any site in Spain. Pajares is the hardest place to test them, because terrain, climate, forest, lines and roads all come together here.
+All three parts run on free national data: PNOA LiDAR, AEMET observations and fire maps. So anyone can check them and repeat them, on any site in Spain. We chose Pajares because it's the hardest place to test them: terrain, climate, forest, lines and roads all come together here.
 
 **We're not competing with the companies' drones. What we offer is an idea, an engineering solution and open data that anyone can check.**
 
 ## What others are already doing
 
+Of course, we're not the first to think about trees and power lines. Let's see what's already out there.
+
 **Similar problems are being tackled around the world and in Spain, but behind closed doors or only in part.**
 
 - **Iberdrola with Woza.** Forecasting falls of trees and branches inside and outside the right-of-way corridor, taking wind into account. The pilot is running in Biscay, using satellite data and GIS. The results haven't been published.[^40]
 - **Red Eléctrica with the Polytechnic University of Valencia.** Forest growth near lines, from Red Eléctrica's own repeat LiDAR flights. The data are closed.[^41]
-- **Viesgo.** Its own vegetation growth model, built from two LiDAR flights on a 5 × 5 m grid.[^42]
+- **Viesgo.** Its own vegetation growth model, built from two LiDAR flights in 5 × 5 m squares.[^42]
 - **Norway, 2026.** Forecasting falls of individual trees along lines: a physical wind model combined with machine learning on drone data.[^43]
-- **Tanase et al., 2026.** Forest height and its change from PNOA surveys, for the whole of mainland Spain. Average height growth is about 0.2 m a year. Galicia was left out, because about half the region was flown leaf-off in the first coverage.[^44]
+- **Tanase et al., 2026.** Forest height and its change from PNOA surveys, for the whole of mainland Spain. Average height growth is about 0.2 m a year. Galicia was left out, because about half the region was flown leaf-off in the first survey.[^44]
 
-**Our part: open, verifiable, built on national data, for any site, with an honest error margin, and together with the storms.**
+**What sets us apart: open, verifiable, built on national data, for any site, with an honest error margin, and together with the storms.**
 
 ## Where we start
 
@@ -106,7 +116,7 @@ All three parts run on free national data: PNOA LiDAR, AEMET observations and fi
 
 A tree that can't reach a wire today may reach it in a few years. The fastest growth is young regrowth in cleared corridors and on burnt ground. Spain has already surveyed the whole country several times with PNOA LiDAR, and these surveys are free. From them, we can measure how much the forest has grown between one survey and the next.
 
-The difficulty is that the surveys differ: different years, sensors, seasons and point densities. So `canopy-growth` doesn't just give a growth rate in metres per year. It also shows how far we can trust that number, and where the older surveys let us measure it and where they don't.
+The difficulty is that the surveys differ: different years, instruments, seasons and numbers of points. So `canopy-growth` doesn't just give a growth rate in metres per year. It also shows how far we can trust that number, and where the older surveys let us measure it and where they don't.
 
 ---
 
