@@ -4,7 +4,7 @@
 
 Learn airborne LiDAR the way an engineer works: start with a real question, read the national surveys of Spain point by point, check every result, and finish with an open tool that measures how fast the forest grows next to power lines.
 
-Book 4 of the *From Field to Code* series. Written in Spanish and English.
+Book 5 of the *From Field to Code* series. Written in Spanish and English.
 
 > Status: work in progress (started November 2026). Read it online: https://elviragd-lab.github.io/field-to-code-lidar/
 
@@ -21,11 +21,12 @@ We answer it step by step on the Pajares pass (Asturias and León) while buildin
 1. [PyQGIS from Scratch](https://elviragd-lab.github.io/field-to-code-pyqgis/)
 2. [Remote Sensing from Scratch](https://elviragd-lab.github.io/field-to-code-remote-sensing/)
 3. [Spatial Statistics from Scratch](https://elviragd-lab.github.io/field-to-code-statistics/)
-4. LiDAR from Scratch (this book)
-5. Power Lines from Scratch (planned)
-6. Cloud Native (planned)
-7. Storms (planned)
-8. Risk (planned)
+4. [Spatial SQL from Scratch](https://elviragd-lab.github.io/field-to-code-spatial-sql/)
+5. LiDAR from Scratch (this book)
+6. Power Lines from Scratch (planned)
+7. Cloud Native (planned)
+8. Storms (planned)
+9. Risk (planned)
 
 Series home page: https://elviragd-lab.github.io
 
@@ -38,6 +39,10 @@ npm install -g mystmd@1.12.0
 cd book
 myst start
 ```
+
+## Report a mistake
+
+Found an error in the text or code that does not run? Please open an [issue](https://github.com/ElviraGD-lab/field-to-code-lidar/issues). How to report it: [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Licence
 
