@@ -112,6 +112,12 @@ thresholds: {}
 
 `thresholds` son los «umbrales». Las llaves `{}` son una lista vacía. Todavía no hay umbrales, porque aún no hemos dado ningún paso del cálculo. El primer umbral de verdad aparecerá antes del paso de descarga de datos.
 
+```{figure} ../../images/ch01-02-acceptance-empty.png
+:alt: El archivo config/acceptance.yaml en GitHub, con la regla en los comentarios y thresholds vacío
+:width: 100%
+
+El archivo `config/acceptance.yaml` del repositorio `canopy-growth` en GitHub. Las líneas con `#` son comentarios con la regla: el umbral se escribe antes del paso que comprueba y no se cambia después de ver el resultado. Captura de pantalla, 24 de noviembre de 2026.
+```
 
 **Cómo puede fallar:** el commit con el umbral aparece después del resultado, o el umbral se cambia después de ver el número. En ese caso, la comprobación no se da por superada.
 

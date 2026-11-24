@@ -112,6 +112,12 @@ thresholds: {}
 
 `thresholds` means exactly that: the thresholds. The curly brackets `{}` are an empty list. There are no thresholds yet, because we haven't done a single step of the calculation. The first real threshold will appear before the data download step.
 
+```{figure} ../../images/ch01-02-acceptance-empty.png
+:alt: The config/acceptance.yaml file on GitHub, with the rule in the comments and empty thresholds
+:width: 100%
+
+The `config/acceptance.yaml` file of the `canopy-growth` repository on GitHub. The lines starting with `#` are comments with the rule: a threshold is written before the step it checks and is not changed after we see the result. Screenshot, 24 November 2026.
+```
 
 **How it can fail:** the commit with the threshold appeared after the result, or the threshold was changed after we saw the number. Then the check doesn't count as passed.
 
