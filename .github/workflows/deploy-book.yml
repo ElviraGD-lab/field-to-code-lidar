@@ -18,10 +18,7 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  deploy:
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+  build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v7
@@ -40,6 +37,16 @@ jobs:
       - uses: actions/upload-pages-artifact@v5
         with:
           path: book/_build/html
+
+  # A separate job, as in GitHub's own Pages workflow: it starts only after the
+  # build job has finished, so the uploaded site artifact is always visible.
+  deploy:
+    needs: build
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
       - name: Deploy
         id: deployment
         uses: actions/deploy-pages@v5
