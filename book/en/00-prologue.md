@@ -30,7 +30,7 @@ Nature changes with height too. The valleys have one vegetation belt, higher up 
 
 That makes it a hard place for satellite imagery. Clear images are scarce: if it isn't cloud, it's snow or mountain shadow. In winter the sun sits low, and the north-facing slopes are in shadow nearly all the time. Of 48 Sentinel-2 images for 2023, only 31 were usable.[^17]
 
-The wires have a hard time here too. In winter, wet snow and ice build up on them, and under that weight a line can snap.[^18] In summer, the wires heat up, lengthen and sag lower.[^19]
+The wires have a hard time here too. In winter, wet snow builds up on them, and under that weight a line can snap.[^18] In summer, the wires heat up, lengthen and sag lower.[^19]
 
 **Cold, snow and heat in one place put a heavy load on the wires.**
 

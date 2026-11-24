@@ -30,7 +30,7 @@ Con la altitud cambia también la vegetación. En los valles hay un piso, más a
 
 Para la imagen de satélite es un lugar complicado. Hay pocas escenas limpias: o hay nubes, o nieve, o la sombra de las montañas. En invierno el sol va bajo y las laderas norte pasan casi todo el tiempo en sombra. De las 48 escenas de Sentinel-2 de 2023, solo 31 resultaron útiles[^17].
 
-Los cables también lo pasan mal. En invierno se les pegan la nieve húmeda y el hielo, y con ese peso la línea puede romperse[^18]. En verano los conductores se calientan, se alargan y cuelgan más bajos[^19].
+Los cables también lo pasan mal. En invierno se les pega la nieve húmeda, y con ese peso la línea puede romperse[^18]. En verano los conductores se calientan, se alargan y cuelgan más bajos[^19].
 
 **Frío, nieve y calor en un mismo lugar someten a los cables a mucha carga.**
 
