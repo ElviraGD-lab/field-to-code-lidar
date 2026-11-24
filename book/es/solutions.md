@@ -10,3 +10,21 @@ title: "Soluciones de los ejercicios"
 3. La nieve húmeda sobre árboles que todavía estaban en hoja. En Andalucía, lo que rompía la red era sobre todo el propio viento.
 
 [Volver a los ejercicios de la lección 1.1](#es-ex-1-1)
+
+(es-sol-1-2)=
+## Lección 1.2. Cómo demostrar que podemos fiarnos de un número
+
+1. La respuesta conocida.
+2. Al revés: el umbral se escribe antes del cálculo, y el commit con el umbral tiene que estar en el historial antes que el resultado.
+3. En los vuelos antiguos hay demasiado pocos puntos para ver bien una copa aislada. En una cuadrícula de 20–30 m hay puntos suficientes para encontrar la parte superior del bosque.
+
+[Volver a los ejercicios de la lección 1.2](#es-ex-1-2)
+
+(es-sol-2-1)=
+## Lección 2.1. Cómo mide distancias un láser
+
+1. Velocidad de la luz × tiempo ÷ 2.
+2. No se ha dividido entre 2. El pulso va y vuelve; lo correcto es `distance = c * t / 2`.
+3. En las superficies estables: carreteras, tejados, roca. No crecen, así que la diferencia en ellas muestra el desplazamiento del propio vuelo.
+
+[Volver a los ejercicios de la lección 2.1](#es-ex-2-1)

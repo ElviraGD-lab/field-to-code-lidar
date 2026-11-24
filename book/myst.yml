@@ -33,6 +33,10 @@ project:
         - title: "1. Qué construimos"
           children:
             - file: es/01-what-we-build/01-who-needs-growth.md
+            - file: es/01-what-we-build/02-trust-the-number.md
+        - file: es/02-what-is-lidar/index.md
+          children:
+            - file: es/02-what-is-lidar/01-laser-distance.md
         - file: es/solutions.md
     - title: English
       children:
@@ -42,6 +46,10 @@ project:
         - title: "1. What we are building"
           children:
             - file: en/01-what-we-build/01-who-needs-growth.md
+            - file: en/01-what-we-build/02-trust-the-number.md
+        - file: en/02-what-is-lidar/index.md
+          children:
+            - file: en/02-what-is-lidar/01-laser-distance.md
         - file: en/solutions.md
 site:
   template: book-theme

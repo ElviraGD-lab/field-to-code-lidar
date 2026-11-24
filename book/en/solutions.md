@@ -10,3 +10,21 @@ title: "Answers to the exercises"
 3. Wet snow on trees that were still in leaf. In Andalusia, it was mostly the wind itself that broke the network.
 
 [Back to the lesson 1.1 exercises](#en-ex-1-1)
+
+(en-sol-1-2)=
+## Lesson 1.2. How to prove a number can be trusted
+
+1. A known answer.
+2. It's the other way round: we write the threshold down before the calculation, and the commit with the threshold must come earlier in the history than the result.
+3. The older surveys have too few points to make out a single crown reliably. In a 20–30 m square there are enough points to find the top of the forest.
+
+[Back to the lesson 1.2 exercises](#en-ex-1-2)
+
+(en-sol-2-1)=
+## Lesson 2.1. How a laser measures distance
+
+1. Speed of light × time ÷ 2.
+2. It doesn't divide by 2. The pulse goes there and back, so the correct code is `distance = c * t / 2`.
+3. On stable surfaces – roads, roofs, rock. They don't grow, so the difference there shows a shift in the survey itself.
+
+[Back to the lesson 2.1 exercises](#en-ex-2-1)
