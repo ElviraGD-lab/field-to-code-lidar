@@ -28,3 +28,12 @@ title: "Answers to the exercises"
 3. On stable surfaces – roads, roofs, rock. They don't grow, so the difference there shows a shift in the survey itself.
 
 [Back to the lesson 2.1 exercises](#en-ex-2-1)
+
+(en-sol-2-2)=
+## Lesson 2.2. How a range becomes a coordinate
+
+1. Where the plane is (GNSS), how it's tilted (the IMU: roll, pitch, heading) and at what angle the beam left (the scanner mirror).
+2. `math.sin` expects radians. The correct version is `math.sin(math.radians(20))`; otherwise the point moves 1.2 km.
+3. Height shows what's dangerous today, while growth rate shows what will become dangerous later.
+
+[Back to the lesson 2.2 exercises](#en-ex-2-2)

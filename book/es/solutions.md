@@ -28,3 +28,12 @@ title: "Soluciones de los ejercicios"
 3. En las superficies estables: carreteras, tejados, roca. No crecen, así que la diferencia en ellas muestra el desplazamiento del propio vuelo.
 
 [Volver a los ejercicios de la lección 2.1](#es-ex-2-1)
+
+(es-sol-2-2)=
+## Lección 2.2. Cómo una distancia se convierte en coordenada
+
+1. Dónde está el avión (GNSS), cómo está inclinado (IMU: alabeo, cabeceo y rumbo) y con qué ángulo ha salido el haz (espejo del escáner).
+2. `math.sin` espera radianes. Lo correcto es `math.sin(math.radians(20))`; si no, el punto se va 1,2 km.
+3. La altura muestra lo que es peligroso hoy, y la velocidad de crecimiento, lo que será peligroso después.
+
+[Volver a los ejercicios de la lección 2.2](#es-ex-2-2)

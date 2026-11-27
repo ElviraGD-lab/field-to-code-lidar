@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 380" font-family="Helvetica, Arial, sans-serif" font-size="15">
+  <rect width="520" height="380" fill="white"/>
+  <!-- ground -->
+  <line x1="40" y1="320" x2="480" y2="320" stroke="#8a6d3b" stroke-width="2"/>
+  <text x="300" y="350" fill="#8a6d3b">ground, Z = 1300 m</text>
+  <!-- vertical leg -->
+  <line x1="120" y1="60" x2="120" y2="320" stroke="#333" stroke-width="2" stroke-dasharray="6 4"/>
+  <!-- horizontal leg -->
+  <line x1="120" y1="320" x2="215" y2="320" stroke="#333" stroke-width="3"/>
+  <!-- beam (hypotenuse) -->
+  <line x1="120" y1="60" x2="215" y2="320" stroke="#c0392b" stroke-width="3"/>
+  <!-- right angle mark -->
+  <polyline points="120,305 135,305 135,320" fill="none" stroke="#333" stroke-width="1.5"/>
+  <!-- angle arc -->
+  <path d="M 120 115 A 55 55 0 0 0 138.8 111.7" fill="none" stroke="#333" stroke-width="1.5"/>
+  <text x="124" y="140">20°</text>
+  <!-- aircraft and ground point -->
+  <circle cx="120" cy="60" r="7" fill="#2c3e50"/>
+  <text x="40" y="45">aircraft</text>
+  <text x="40" y="30" font-size="13" fill="#555">X 274 000, Z 3300 m</text>
+  <circle cx="215" cy="320" r="7" fill="#2c3e50"/>
+  <text x="228" y="300">point on the ground</text>
+  <text x="228" y="283" font-size="13" fill="#555">X 274 728, Z 1300 m</text>
+  <!-- labels -->
+  <text x="30" y="195">2000 m</text>
+  <text x="30" y="213" font-size="13" fill="#555">down</text>
+  <text x="180" y="185" fill="#c0392b">beam: 2128.4 m</text>
+  <text x="180" y="203" font-size="13" fill="#c0392b">(hypotenuse)</text>
+  <text x="140" y="342">728 m east</text>
+  <!-- axes -->
+  <line x1="400" y1="110" x2="460" y2="110" stroke="#333" stroke-width="1.5" marker-end="url(#a)"/>
+  <line x1="400" y1="110" x2="400" y2="50" stroke="#333" stroke-width="1.5" marker-end="url(#a)"/>
+  <text x="465" y="115">X (east)</text>
+  <text x="385" y="42">Z (up)</text>
+  <defs><marker id="a" markerWidth="8" markerHeight="8" refX="6" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8 z" fill="#333"/></marker></defs>
+</svg>
